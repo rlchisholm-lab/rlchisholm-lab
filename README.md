@@ -5,10 +5,6 @@
 <p>📍 Minnesota, USA</p>
 <p>💻 I’m a regular student </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvinleandro&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinleandro&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
-</div><br/>
 
 ## Languages and Tools
 
